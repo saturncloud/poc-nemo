@@ -5,7 +5,7 @@
     "working_directory": "/home/jovyan/nemo",
     "git_repositories": [
       {
-        "url": "https://github.com/saturncloud/examples.git",
+        "url": "https://github.com/saturncloud/poc-nemo.git",
         "path": "/home/jovyan/nemo"
       }
     ],
